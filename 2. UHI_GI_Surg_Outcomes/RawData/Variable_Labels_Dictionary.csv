@@ -1,0 +1,434 @@
+var_name,var_label
+AHAID,AHAID
+MCRNUM,MCRNUM
+mname,Mname
+MLOCCITY,MLOCCITY
+MLOCSTCD,MLOCSTCD
+MLOCZIP,MLOCZIP
+LAT,LAT
+LONG,LONG
+I,MCRNUM
+CBSATYPE,CBSATYPE
+CBSACODE,CBSACODE
+MCNTYCD,MCNTYCD
+FCOUNTY,FCOUNTY
+MSICHOS,MSICHOS
+MSICSYS,MSICSYS
+MSICVEN,MSICVEN
+ONCOLHOS,ONCOLHOS
+ONCOLSYS,ONCOLSYS
+ONCOLVEN,ONCOLVEN
+PALHOS,PALHOS
+PALSYS,PALSYS
+PALVEN,PALVEN
+IPALHOS,IPALHOS
+IPALSYS,IPALSYS
+IPALVEN,IPALVEN
+ROBOHOS,ROBOHOS
+ROBOSYS,ROBOSYS
+ROBOVEN,ROBOVEN
+LIVRHOS,LIVRHOS
+LIVRSYS,LIVRSYS
+LIVRVEN,LIVRVEN
+TRAUMHOS,TRAUMHOS
+TRAUMSYS,TRAUMSYS
+TRAUMVEN,TRAUMVEN
+TRAUML90,TRAUML90
+EMDEPHOS,EMDEPHOS
+AK,EMDEPHOS
+EMDEPVEN,EMDEPVEN
+CTSCNHOS,CTSCNHOS
+CTSCNSYS,CTSCNSYS
+CTSCNVEN,CTSCNVEN
+ENDORHOS,ENDORHOS
+ENDORSYS,ENDORSYS
+ENDORVEN,ENDORVEN
+IGRTHOS,IGRTHOS
+PTONHOS,PTONHOS
+BEAMHOS,BEAMHOS
+SRADHOS,SRADHOS
+BLDOHOS,BLDOHOS
+MAPP1,MAPP1
+MAPP8,MAPP8
+MAPP5,MAPP5
+MAPP2,MAPP2
+MAPP18,MAPP18
+MAPP19,MAPP19
+MAPP20,MAPP20
+MEDADHOS,MEDADHOS
+MEDADSYS,MEDADSYS
+MEDADVEN,MEDADVEN
+HLINHOS,HLINHOS
+HLINSYS,HLINSYS
+HLINVEN,HLINVEN
+MSICBD,MSICBD
+LBEDSA,LBEDSA
+BSC,BSC
+SUROPIP,SUROPIP
+OPRA,OPRA
+FTMDTF,FTMDTF
+FTRES,FTRES
+FTTRAN84,FTTRAN84
+FTRNTF,FTRNTF
+PTMDTF,PTMDTF
+PTRES,PTRES
+PTTRAN84,PTTRAN84
+PTRNTF,PTRNTF
+FTED,FTED
+FTER,FTER
+FTET,FTET
+FTEN,FTEN
+VMD,VMD
+VRES,VRES
+VTTRN,VTTRN
+VRN,VRN
+mcr_num,No Label
+prvdrnum,No Label
+FIPS,State/ County Codes
+rpl_theme4_2020,No Label
+rpl_theme3_2020,No Label
+rpl_theme2_2020,No Label
+rpl_theme1_2020,No Label
+rpl_themes_2020,No Label
+STATE,State Abbreviation
+ST_ABBR,No Label
+COUNTY,County Name
+FIPSCOUNTY,FIPS County Code
+CBSA,CBSA (blanks are rural)
+CBSANAME,CBSA Name (blanks are rural)
+SSASTATE,SSA State
+FIPSSTATE,FIPS State
+RPL_THEMES_2016,No Label
+rpl_theme1_2016,No Label
+rpl_theme2_2016,No Label
+rpl_theme3_2016,No Label
+rpl_theme4_2016,No Label
+rpl_theme1_2018,No Label
+rpl_theme2_2018,No Label
+rpl_theme3_2018,No Label
+rpl_theme4_2018,No Label
+ST,No Label
+RPL_THEMES_2018,No Label
+SSAD,SSA County Code
+SSAD1,No Label
+INDEX_ORG_NPI_NUM,No Label
+ORG_VOL,No Label
+no_year,No Label
+hosp_vol,No Label
+DESY_SORT_KEY,LDS Beneficiary ID
+CharAIDS,No Label
+CharCHF,No Label
+CharCPD,No Label
+CharDementia,No Label
+CharDM,No Label
+CharMalig,No Label
+CharMildLD,No Label
+CharSevLD,No Label
+CharPlegia,No Label
+CharRenal,No Label
+CharRheum,No Label
+CharTumor,No Label
+CharlsScore,No Label
+GNDR_CD,Gender Code from Claim
+PRVDR_NUM,Provider Number
+ORG_NPI_NUM,Organization NPI Number
+AT_PHYSN_NPI,Claim Attending Physician NPI Number
+OP_PHYSN_NPI,Claim Operating Physician NPI Number
+OT_PHYSN_NPI,Claim Other Physician NPI Number
+CLM_PPS_CPTL_IME_AMT,Claim PPS Capital IME Amt
+INDEX_CLM_THRU_DT,No Label
+INDEX_CLM_ADMSN_DT,No Label
+INDEX_NCH_BENE_DSCHRG_DT,No Label
+ICD_PRCDR_CD1,Claim Procedure Code I
+ICD_PRCDR_CD2,Claim Procedure Code II
+ICD_PRCDR_CD3,Claim Procedure Code III
+ICD_PRCDR_CD4,Claim Procedure Code IV
+ICD_PRCDR_CD5,Claim Procedure Code V
+ICD_PRCDR_CD6,Claim Procedure Code VI
+ICD_PRCDR_CD7,Claim Procedure Code VII
+ICD_PRCDR_CD8,Claim Procedure Code VIII
+ICD_PRCDR_CD9,Claim Procedure Code IX
+ICD_PRCDR_CD10,Claim Procedure Code X
+ICD_PRCDR_CD11,Claim Procedure Code XI
+ICD_PRCDR_CD12,Claim Procedure Code XII
+ICD_PRCDR_CD13,Claim Procedure Code XIII
+ICD_PRCDR_CD14,Claim Procedure Code XIV
+ICD_PRCDR_CD15,Claim Procedure Code XV
+ICD_PRCDR_CD16,Claim Procedure Code XVI
+ICD_PRCDR_CD17,Claim Procedure Code XVII
+ICD_PRCDR_CD18,Claim Procedure Code XVIII
+ICD_PRCDR_CD19,Claim Procedure Code XIX
+ICD_PRCDR_CD20,Claim Procedure Code XX
+ICD_PRCDR_CD21,Claim Procedure Code XXI
+ICD_PRCDR_CD22,Claim Procedure Code XXII
+ICD_PRCDR_CD23,Claim Procedure Code XXIII
+ICD_PRCDR_CD24,Claim Procedure Code XXIV
+ICD_PRCDR_CD25,Claim Procedure Code XXV
+ICD_DGNS_CD1,Claim Diagnosis Code I
+ICD_DGNS_CD2,Claim Diagnosis Code II
+ICD_DGNS_CD3,Claim Diagnosis Code III
+ICD_DGNS_CD4,Claim Diagnosis Code IV
+ICD_DGNS_CD5,Claim Diagnosis Code V
+ICD_DGNS_CD6,Claim Diagnosis Code VI
+ICD_DGNS_CD7,Claim Diagnosis Code VII
+ICD_DGNS_CD8,Claim Diagnosis Code VIII
+ICD_DGNS_CD9,Claim Diagnosis Code IX
+ICD_DGNS_CD10,Claim Diagnosis Code X
+ICD_DGNS_CD11,Claim Diagnosis Code XI
+ICD_DGNS_CD12,Claim Diagnosis Code XII
+ICD_DGNS_CD13,Claim Diagnosis Code XIII
+ICD_DGNS_CD14,Claim Diagnosis Code XIV
+ICD_DGNS_CD15,Claim Diagnosis Code XV
+ICD_DGNS_CD16,Claim Diagnosis Code XVI
+ICD_DGNS_CD17,Claim Diagnosis Code XVII
+ICD_DGNS_CD18,Claim Diagnosis Code XVIII
+ICD_DGNS_CD19,Claim Diagnosis Code XIX
+ICD_DGNS_CD20,Claim Diagnosis Code XX
+ICD_DGNS_CD21,Claim Diagnosis Code XXI
+ICD_DGNS_CD22,Claim Diagnosis Code XXII
+ICD_DGNS_CD23,Claim Diagnosis Code XXIII
+ICD_DGNS_CD24,Claim Diagnosis Code XXIV
+ICD_DGNS_CD25,Claim Diagnosis Code XXV
+BENE_RACE_CD,Race Code from Claim
+BENE_STATE_CD,State Code from Claim (SSA)
+PRVDR_STATE_CD,NCH Provider State Code
+BENE_CNTY_CD,County Code from Claim (SSA)
+CLM_IP_ADMSN_TYPE_CD,Claim Inpatient Admission Type Code
+PTNT_DSCHRG_STUS_CD,Patient Discharge Status Code
+CWF_BENE_MDCR_STUS_CD,CWF Beneficiary Medicare Status Code
+NCH_BLOOD_PNTS_FRNSHD_QTY,NCH Blood Pints Furnished Quantity
+CLM_PPS_CPTL_DSPRPRTNT_SHR_AMT,Claim PPS Capital Disproportionate Share Amt
+INDEX_ICD_PRCDR_CD,No Label
+INDEX_ICD_DGNS_CD,No Label
+malignant,No Label
+INDEX_PRVDR_NUM,No Label
+INDEX_YEAR,No Label
+INDEX_MONTH,No Label
+SEX_CODE,Sex
+RACE_CODE,Beneficiary Race Code
+AGE,Age at Beginning of Reference Year
+STATE_CODE,State Code
+COUNTY_CODE,County Code
+HI_COVERAGE,HI Coverage Count
+SMI_COVERAGE,SMI Coverage Count
+HMO_COVERAGE,HMO Coverage Count
+partab_nohmo,No Label
+READMISSION_30DAYS,No Label
+READMISSION_90DAYS,No Label
+READMISSION_180DAYS,No Label
+MORTALITY_DATE,No Label
+MORTALITY,No Label
+LASTFU_DT,No Label
+EXPENDITURE_INDEX,No Label
+EXPENDITURE_TOTAL_PREOP,No Label
+EXPENDITURE_IPPS_PREOP,No Label
+N_EPISODE_IPPS_PREOP,No Label
+EXPENDITURE_OPPS_PREOP,No Label
+N_EPISODE_OPPS_PREOP,No Label
+EXPENDITURE_TOTAL_POSTOP,No Label
+EXPENDITURE_IPPS_POSTOP,No Label
+N_EPISODE_IPPS_POSTOP,No Label
+EXPENDITURE_OPPS_POSTOP,No Label
+N_EPISODE_OPPS_POSTOP,No Label
+Index_Pulmonary_failure,No Label
+Index_Pneumonia,No Label
+Index_Myocardial_infarction,No Label
+Index_DpVenousThrom_PulmEmb,No Label
+Index_Acute_Renal_Failure,No Label
+Index_Hemmorhage,No Label
+Index_Surg_Site_Infect,No Label
+Index_GI_Hemmorhage,No Label
+Index_pancreatic_fistula,No Label
+Index_bile_leak,No Label
+Index_biled_injury,No Label
+Index_inta_abscess,No Label
+Index_Dehiscence,No Label
+Index_pancreaticleakage,No Label
+Index_delayedempetying,No Label
+Thirty_Pulmonary_failure,No Label
+Thirty_Pneumonia,No Label
+Thirty_Myocardial_infarction,No Label
+Thirty_DpVenousThrom_PulmEmb,No Label
+Thirty_Acute_Renal_Failure,No Label
+Thirty_Hemmorhage,No Label
+Thirty_Surg_Site_Infect,No Label
+Thirty_GI_Hemmorhage,No Label
+Thirty_pancreatic_fistula,No Label
+Thirty_bile_leak,No Label
+Thirty_biled_injury,No Label
+Thirty_inta_abscess,No Label
+Thirty_Dehiscence,No Label
+Thirty_pancreaticleakage,No Label
+Thirty_delayedempetying,No Label
+Ninety_Pulmonary_failure,No Label
+Ninety_Pneumonia,No Label
+Ninety_Myocardial_infarction,No Label
+Ninety_DpVenousThrom_PulmEmb,No Label
+Ninety_Acute_Renal_Failure,No Label
+Ninety_Hemmorhage,No Label
+Ninety_Surg_Site_Infect,No Label
+Ninety_GI_Hemmorhage,No Label
+Ninety_pancreatic_fistula,No Label
+Ninety_bile_leak,No Label
+Ninety_biled_injury,No Label
+Ninety_inta_abscess,No Label
+Ninety_Dehiscence,No Label
+Ninety_pancreaticleakage,No Label
+Ninety_delayedempetying,No Label
+INDEX_SUM_COMPLICATIONS,No Label
+Thirty_SUM_COMPLICATIONS,No Label
+Ninety_SUM_COMPLICATIONS,No Label
+Race,No Label
+Male,No Label
+LOS,No Label
+ANY_COMP,No Label
+TEACHING_HOSP,No Label
+MORTALITY_YEAR,No Label
+MORTALITY_MONTH,No Label
+MORTALITY_DAY,No Label
+DAYS_TO_MORTALITY,No Label
+MORTALITY_30DAYS,No Label
+MORTALITY_90DAYS,No Label
+TIME_TO_LAST_OBS_DAYS,No Label
+pdac,No Label
+PROCEDURE,No Label
+liver,No Label
+biliary,No Label
+COLON,No Label
+rectum,No Label
+Esophagus,No Label
+stomach,No Label
+COUNT,No Label
+_TYPE_,No Label
+_FREQ_,No Label
+P75,No Label
+LOS_GT75,No Label
+URGENT,No Label
+DISCHARGE_LOCATION,No Label
+DISCHARGE_HOME,No Label
+TO,No Label
+STATE_PAD,No Label
+COUNTY_PAD,No Label
+SSA_State_county_code,No Label
+County_Name,County_Name
+Population_2010,Population_2010
+RUCC_2013,RUCC_2013
+Description,Description
+cb_region,Region
+rpl_theme1,No Label
+rpl_theme2,No Label
+rpl_theme3,No Label
+rpl_theme4,No Label
+rpl_themes,No Label
+rurality,No Label
+metro,No Label
+svicat,No Label
+Index_weekday_name,No Label
+hospvolcat,No Label
+CCI,No Label
+minority,No Label
+Thirty_sum_comp,No Label
+ninty_sum_comp,No Label
+index_monthcat,No Label
+weekday,No Label
+weekdaycat,No Label
+bedtonurseratio,No Label
+bedtopartnurseratio,No Label
+bedtofteregnurseratio,No Label
+higbedtonurse,No Label
+higbedtopartnurse,No Label
+higbedtoftenurse,No Label
+rural_ref_center,No Label
+daysloss,No Label
+DAH,No Label
+CHEMO,No Label
+LAST_CHEMO,No Label
+FIRST_CHEMO,No Label
+radio,No Label
+LAST_radio,No Label
+FIRST_radio,No Label
+PREOP_CHEMO,No Label
+POSTOP_CHEMO,No Label
+diff_FCHEMO,No Label
+diff_LCHEMO,No Label
+PREOP_radio,No Label
+POSTOP_radio,No Label
+diff_Fradio,No Label
+diff_Lradio,No Label
+BLD001,No Label
+BLD007,No Label
+CIR003,No Label
+CIR007,No Label
+CIR008,No Label
+CIR011,No Label
+CIR019,No Label
+CIR020,No Label
+CIR023,No Label
+CIR026,No Label
+CIR027,No Label
+CIR028,No Label
+CIR030,No Label
+CIR032,No Label
+CIR036,No Label
+DIG004,No Label
+DIG006,No Label
+DIG007,No Label
+DIG009,No Label
+DIG010,No Label
+DIG012,No Label
+DIG013,No Label
+DIG014,No Label
+DIG016,No Label
+DIG017,No Label
+DIG021,No Label
+DIG022,No Label
+DIG025,No Label
+END003,No Label
+END008,No Label
+END009,No Label
+END010,No Label
+END011,No Label
+GEN003,No Label
+GEN004,No Label
+GEN006,No Label
+GEN007,No Label
+GEN009,No Label
+GEN021,No Label
+INF003,No Label
+MAL001,No Label
+MBD017,No Label
+MBD019,No Label
+MBD021,No Label
+MUS002,No Label
+MUS006,No Label
+MUS011,No Label
+MUS014,No Label
+MUS022,No Label
+MUS023,No Label
+MUS029,No Label
+MUS030,No Label
+NEO002,No Label
+NEO015,No Label
+NEO022,No Label
+NEO039,No Label
+NEO043,No Label
+NEO044,No Label
+NEO045,No Label
+NEO051,No Label
+NEO070,No Label
+NEO073,No Label
+NEO074,No Label
+NVS008,No Label
+NVS011,No Label
+NVS014,No Label
+NVS016,No Label
+NVS020,No Label
+RSP002,No Label
+RSP010,No Label
+RSP012,No Label
+RSP014,No Label
+SKN001,No Label
+SKN003,No Label
+SKN004,No Label
+partab_nohmo1yr,No Label
+SNF_hospice_residents,No Label
